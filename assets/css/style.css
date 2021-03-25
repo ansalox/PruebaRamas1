@@ -12,8 +12,14 @@
 .yy{
   background-color: rgb(154, 157, 160);
 }
+<<<<<<< HEAD
 .dieciocho{
   background-color: rgb(228, 198, 27);
+=======
+.doce{
+  background-color: rgb(0, 0, 194);
+  color: rgb(255, 255, 255);
+>>>>>>> ae1b9b935601c5c5cbdfaf1662cc07b20ec03fdf
 }
 .trece{
   background-color: rgb(255, 163, 78);
