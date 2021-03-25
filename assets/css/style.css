@@ -2,12 +2,65 @@
   background-color: aliceblue;
   font-size: 25px;
 }
-.zz{
-  background-color: rgb(73, 164, 243);
+.dieciseis {
+  background-color: rgb(102, 28, 44);
+  color: white;
 }
-.yy{
+.zz {
+  background-color: rgb(85, 108, 240);
+}
+.yy {
   background-color: rgb(154, 157, 160);
 }
+<<<<<<< HEAD
 .cero{
   background-color: aquamarine;
 }
+=======
+.dieciocho {
+  background-color: rgb(228, 198, 27);
+}
+.doce {
+  background-color: rgb(0, 0, 194);
+  color: rgb(255, 255, 255);
+}
+.dieciseis {
+  background-color: rgb(102, 28, 44);
+  color: white;
+}
+.zz {
+  background-color: rgb(85, 108, 240);
+}
+.yy {
+  background-color: rgb(154, 157, 160);
+}
+.dieciocho {
+  background-color: rgb(228, 198, 27);
+}
+.doce {
+  background-color: rgb(0, 0, 194);
+  color: rgb(255, 255, 255);
+}
+.trece {
+  background-color: rgb(255, 163, 78);
+}
+.diez {
+  background-color: aqua;
+}
+.diecinueve {
+  background-color: red;
+}
+.tres {
+  background-color: rgb(44, 151, 151);
+}
+.dos {
+  background-color: azure;
+}
+.veinte {
+  background-color: rgb(202, 114, 13);
+}
+.uno {
+  background-color: aquamarine;
+  
+}
+>>>>>>> 244392e1b23d821f9c23da82f3c2c7686481c6eb
