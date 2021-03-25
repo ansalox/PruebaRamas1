@@ -2,6 +2,10 @@
   background-color: aliceblue;
   font-size: 25px;
 }
+.dieciseis{
+  background-color: rgb(102, 28, 44);
+  color: white;
+}
 .zz{
   background-color: rgb(85, 108, 240);
 }
@@ -10,6 +14,16 @@
 }
 .dieciocho{
   background-color: rgb(228, 198, 27);
+}
+.trece{
+  background-color: rgb(255, 163, 78);
+}
+  .diez{
+  background-color: aqua;
+}
+.diecinueve{ 
+
+  background-color: red;
 }
 .tres{
   background-color: rgb(44, 151, 151);
